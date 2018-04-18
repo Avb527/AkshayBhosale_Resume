@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  18 APR 2018 21:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  18 APR 2018 21:12
 entering extended mode
 **./document.tex
 (document.tex
@@ -170,25 +170,31 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) [1
+)
+<pic.PNG, id=1, 441.90094pt x 540.51938pt>
+File: pic.PNG Graphic file (type png)
+<use pic.PNG>
+Package pdftex.def Info: pic.PNG  used on input line 23.
+(pdftex.def)             Requested size: 66.28227pt x 81.0744pt.
+ [1
 
-{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./pic.PNG>] 
 (document.aux) ) 
 Here is how much of TeX's memory you used:
- 1524 strings out of 493305
- 22786 string characters out of 3130237
+ 1530 strings out of 493305
+ 22844 string characters out of 3130237
  76823 words of memory out of 3000000
- 5086 multiletter control sequences out of 15000+200000
+ 5090 multiletter control sequences out of 15000+200000
  4544 words of font info for 17 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,25p,277b,131s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,25p,277b,170s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (1 page, 34548 bytes).
+Output written on document.pdf (1 page, 187149 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
