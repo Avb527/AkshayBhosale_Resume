@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  18 APR 2018 21:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  18 APR 2018 21:10
 entering extended mode
 **./document.tex
 (document.tex
@@ -175,19 +175,20 @@ G,.JBIG2,.JB2,.eps]
 {C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (document.aux) ) 
 Here is how much of TeX's memory you used:
- 1522 strings out of 493305
- 22767 string characters out of 3130237
- 75823 words of memory out of 3000000
- 5085 multiletter control sequences out of 15000+200000
- 4246 words of font info for 16 fonts, out of 3000000 for 9000
+ 1524 strings out of 493305
+ 22786 string characters out of 3130237
+ 76823 words of memory out of 3000000
+ 5086 multiletter control sequences out of 15000+200000
+ 4544 words of font info for 17 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,4n,25p,277b,131s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on document.pdf (1 page, 18629 bytes).
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on document.pdf (1 page, 34548 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
+ 18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
